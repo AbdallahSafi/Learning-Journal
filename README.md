@@ -6,7 +6,7 @@ GitHub is a platform that enables you to put a code in some kind of storage call
 ## What is GitHub Pages ?
 It is one of the most intersting features of the _GitHub platform_ that does allow you to luanch your website with a live url so you can check your work and you can share this url with others.
  
- ## What is Markdown ?
+## What is Markdown ?
 GitHub introduced a markup language similar to Html called **Markdown**. I should say this language is so easy to learn and it has a nice documetation you can check it on this link [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).It is basically takes some special charater, like # or * and apply them to the text in different ways by this it can change the way how the text will present on the web. 
 For Example if we need to include a block of code in your web page we can wrap the code in backticks like this:
 `var example = true`
