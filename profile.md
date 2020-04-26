@@ -1,7 +1,7 @@
 ![My Image](Profile.jpg)
 
 
-# Abdallah Safi
+# **Abdallah Safi**
 #### Computer Engineer
 
 ## About me
