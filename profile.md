@@ -1,8 +1,8 @@
 ![My Image](Profile.jpg)
 
 
-# **Abdallah Safi**
-#### Computer Engineer
+# Abdallah Safi
+Computer Engineer
 
 ## About me
 I am Abdallah, a computer engineer, from Gaza. As of now, I work as a journalist for a media agency.
