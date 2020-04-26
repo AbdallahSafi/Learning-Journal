@@ -9,6 +9,21 @@ Take a look on the illustartion to see the differences between a fixed and a gro
 ![Image](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
 
 ## How I can maintaining a growth mindset ?
-1. Challenges
+
+1. Challenges:
+Having a growth mindset means relishing opportunities for self-improvement.
+
 2. Obstacles
+There’s no one-size-fits-all model for learning. What works for one person may not work for you.
+
 3. Effort
+Intelligent people enjoy the learning process, and don’t mind when it continues beyond an expected time frame.
+
+
+## My growth mindest statment 
+
+Instead of | I can say
+------------ | -------------
+I am not good at this | I am not good at this yet. But I will learn.
+This is too hard | This will require effort and finding the right strategy.
+I can not do this | I need some feedback and help from others
