@@ -15,13 +15,18 @@ I know that's a bit weird, but I don't mind weirdness because I enjoy discoverin
 - Writing in Arabic calligraphy
 
 ## Favorite Music
-Mozart, beethoven, Adele and Maher Zain songs
+- Mozart
+- beethoven 
+- Adele 
+- Maher Zain songs
 
 ## Favorite Movies
-The Pursuit of Happyness (2006), The Hurricane (1999), Harry Potter
+- The Pursuit of Happyness (2006) 
+- The Hurricane (1999), Harry Potter
 
 ## Favorite Books
-"Tipping point" by malcolm gladwell, "Harry Potter" by J.K. Rowling
+- "Tipping point" by malcolm gladwell 
+- "Harry Potter" by J.K. Rowling
 
 ## Favorite Quotes
 >"If there's even a slight chance at getting something that will make you happy, RISK IT.
