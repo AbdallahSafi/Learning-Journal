@@ -10,4 +10,6 @@ As man carries multi degrees in math and Engineering, I have worn many hats but 
 ## Contact Info
 - Whatsapp: 00972599698617
 - Email: mr.abdallahsafi@gmail.com
-- GitHub: https://github.com/AbdallahSafi
+- GitHub: [My GitHub](https://github.com/AbdallahSafi)
+
+
