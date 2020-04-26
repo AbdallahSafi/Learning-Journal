@@ -21,7 +21,7 @@ Maybe you want to iclude an image in your web page, this is how you do it:
 
 ![Landscape Image](https://cdn.pixabay.com/photo/2019/03/08/15/05/landscape-4042502_960_720.jpg)
 
-and finally this is how you can include a quotes lik this funny one
+and finally this is how you can include a quotes like this funny one
 
 > The most disastrous thing that you can ever learn is your first programming language.”
 > ― Alan Kay
