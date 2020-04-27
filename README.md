@@ -12,7 +12,9 @@ As man carries multi degrees in math and Engineering, I have worn many hats but 
 - Email: mr.abdallahsafi@gmail.com
 - GitHub: [My GitHub](https://github.com/AbdallahSafi)
 
-# Table of content
+## Table of content
 
-. [Growth mindset](https://abdallahsafi.github.io/Learning-Journal/Growth-mindset)
-
+- [Growth mindset](https://abdallahsafi.github.io/Learning-Journal/Growth-mindset)
+- [GitHub](https://abdallahsafi.github.io/Learning-Journal/GitHub)
+- [Text editors](https://abdallahsafi.github.io/Learning-Journal/Text-editors)
+- [Terminal cheat sheet](https://abdallahsafi.github.io/Learning-Journal/Terminal-cheat-sheet)
