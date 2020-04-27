@@ -68,5 +68,34 @@ cp [file] | [newfile]	Copy file to file
 cp [file] | [dir]	Copy file to directory
 mv [file] | [new filename]	Move/Rename, e.g. mv -v [file] [dir]
 
+## Directory managment
+
+Key/Command	 | Description
+------------ | -------------
+mkdir [dir] |	Create new directory
+mkdir -p [dir]/[dir] |	Create nested directories
+rmdir [dir] |	Remove directory ( only operates on empty directories )
+rm -R [dir] |	Remove directory and contents
+
+## PIPES – Allows to combine multiple commands that generate output
+
+Key/Command	 | Description
+------------ | -------------
+more |	Output content delivered in screensize chunks
+\> [file] |	Push output to file, keep in mind it will get overwritten
+\>> [file] |	Append output to existing file
+\< Tell | command to read content from a file
+
+## Help
+
+Key/Command	 | Description
+------------ | -------------
+[command] -h |	Offers help
+[command] —help |	Offers help
+[command] help |	Offers help
+reset |	Resets the terminal display
+man [command] |	Show the help for ‘command’
+whatis [command] |	Gives a one-line description of ‘command’
+
 
 
