@@ -26,9 +26,23 @@ After you gather the informations that you need you should start to organize the
 A wireframe is a simple sketch of the key information that needs to go on each page of a site. It shows the hierarchy of the information and how much space it might require.
 The wireframes make design easier because you know what information needs to appear on which page before considering
 how the the page should look.
+
 ![wireframe](https://www.conceptncontent.com/wp-content/uploads/2019/06/wireframe-cover.jpeg)
 
 ## Getting your message across using Design
 - Design is about communication. Visual hierarchy helps visitors understand what you are trying to tell them.
 - You can differentiate between pieces of information using size, color, and style.
 - You can use grouping and similarity to help simplify the information you present.
+
+# Part 2: Structure
+
+## HTML
+
+It is refer to hyper text mark up langauge. You have to know it is not a programming language instead it is a way of structuring data on the web using special write to do this purpose.
+In HTML we wrap every piece of data in tags that tags define how to present thies information.
+Tags it has two brakets and a charters between them like `<p>data</p>` each tag has an opening and closeing and every tag has it purpose.
+The opening tags can carry attributes, which tell us more about the content of that element. and every attribue has a name and value.
+
+check this image to see how we structue data using html
+
+![Html](https://help.madcapsoftware.com/flare2017r3/Content/Resources/Images/Flare/page_structure_example.png)
