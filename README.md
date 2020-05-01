@@ -20,3 +20,4 @@ As man carries multi degrees in math and Engineering, I have worn many hats but 
 - [Terminal cheat sheet](https://abdallahsafi.github.io/Learning-Journal/Terminal-cheat-sheet)
 - [Learning](https://abdallahsafi.github.io/Learning-Journal/Learning)
 - [Git](https://abdallahsafi.github.io/Learning-Journal/Git)
+- [Design-structure](https://abdallahsafi.github.io/Learning-Journal/Design-structure)

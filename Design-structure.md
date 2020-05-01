@@ -24,3 +24,11 @@ After you gather the informations that you need you should start to organize the
 
 ## WireFrames
 A wireframe is a simple sketch of the key information that needs to go on each page of a site. It shows the hierarchy of the information and how much space it might require.
+The wireframes make design easier because you know what information needs to appear on which page before considering
+how the the page should look.
+![wireframe](https://www.conceptncontent.com/wp-content/uploads/2019/06/wireframe-cover.jpeg)
+
+## Getting your message across using Design
+- Design is about communication. Visual hierarchy helps visitors understand what you are trying to tell them.
+- You can differentiate between pieces of information using size, color, and style.
+- You can use grouping and similarity to help simplify the information you present.
