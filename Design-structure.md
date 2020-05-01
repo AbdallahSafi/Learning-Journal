@@ -17,7 +17,7 @@ Now you need to work out what information they need in order to achieve their go
 5. How often people will visit your site ?
 Working out how often people are likely to revisit your site gives you an indication for how often you should update the site.
 
-## site maps
+## Site maps
 After you gather the informations that you need you should start to organize them in hierarchical manner.
 
 ![site map](https://servantek.org/storage/2018/04/sitemap.png)
@@ -37,7 +37,6 @@ how the the page should look.
 # Part 2: Structure
 
 ## HTML
-
 It is refer to hyper text mark up langauge. You have to know it is not a programming language instead it is a way of structuring data on the web using special write to do this purpose.
 In HTML we wrap every piece of data in tags that tags define how to present thies information.
 Tags it has two brakets and a charters between them like `<p>data</p>` each tag has an opening and closeing and every tag has it purpose.
@@ -46,3 +45,18 @@ The opening tags can carry attributes, which tell us more about the content of t
 check this image to see how we structue data using html
 
 ![Html](https://help.madcapsoftware.com/flare2017r3/Content/Resources/Images/Flare/page_structure_example.png)
+
+## HTML5 layout
+Html went through some improvements to come to it is final version which called html5.
+Html5 interduced a new way of using tags it is repalsed using `<dev></dev>` tags with new tags the aim of it just to make the document readable and meaningfull.
+
+![Html5](https://stuyhsdesign.files.wordpress.com/2016/05/yoko-html5.png)
+
+## Extra Markup
+- DOCTYPES tell browsers which version of HTML you are using.
+- You can add comments to your code between the <!-- and --> markers.
+- The id and class attributes allow you to identify particular elements.
+- The <div> and <span> elements allow you to group block-level and inline elements together.
+- <iframes> cut windows into your web pages through which other pages can be displayed.
+- The <meta> tag allows you to supply all kinds of information about your web page.
+- Escape characters are used to include special characters in your pages such as <, >, and ©.
