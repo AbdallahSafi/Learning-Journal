@@ -23,4 +23,4 @@ As man carries multi degrees in math and Engineering, I have worn many hats but 
 - [Design-structure](https://abdallahsafi.github.io/Learning-Journal/Design-structure)
 - [Design web pages with CSS](https://abdallahsafi.github.io/Learning-Journal/Styling)
 - [JavaScript](https://abdallahsafi.github.io/Learning-Journal/JavaScript)
-- [Computer Architecture and Logic](https://abdallahsafi.github.io/Learning-Journal/Copmuter)
+- [Computer Architecture and Logic](https://abdallahsafi.github.io/Learning-Journal/Computer)
