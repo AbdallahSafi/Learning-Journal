@@ -14,6 +14,7 @@ A script will have to temporarily store the bits of information it needs to do i
 ### How I can declare a variable ?
 
 You should use key word Var and then type the name of the variable and you can assign value to it as the following figure
+
 ![variables](https://www.bookofnetwork.com/images/javascript-images/1.png)
 
 ### There is some rules of how we can name the variable:
